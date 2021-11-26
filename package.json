@@ -1,0 +1,25 @@
+{
+  "name": "learnext.com",
+  "version": "1.0.0",
+  "description": "Project for study react, Next JS, API and continuous deploy.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbcouras/learnext.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbcouras/learnext.com/issues"
+  },
+  "homepage": "https://github.com/fbcouras/learnext.com#readme",
+  "dependencies": {
+    "next": "^12.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
